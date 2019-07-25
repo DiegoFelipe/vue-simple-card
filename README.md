@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <p align="center">
-  <img src="https://i.imgur.com/3x95xpyl.png" height="300" width="600" />
+  <img src="https://i.imgur.com/czovy76.png" height="300" width="600" />
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-green.svg" />
     <img src="https://img.shields.io/badge/license-MIT-green" />
 </p>
-    Simple Vue Card Component (No dependencies)
+
+
+    Simple vue component (No dependencies)
 
 If this project has helped you out, please support me with a star 🌟
 
